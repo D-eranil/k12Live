@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DancingGoatMvc", "DancingGoatMvc/DancingGoat.csproj", "{A61256D4-4B29-4946-8F9E-4C0B7EFDCF22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DancingGoatMvc.Tests", "DancingGoatMvc.Tests/DancingGoat.Tests.csproj", "{A09C0408-491B-4435-AAB6-86B855B891E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{a61256d4-4b29-4946-8f9e-4c0b7efdcf22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a61256d4-4b29-4946-8f9e-4c0b7efdcf22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a61256d4-4b29-4946-8f9e-4c0b7efdcf22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{a61256d4-4b29-4946-8f9e-4c0b7efdcf22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{a09c0408-491b-4435-aab6-86b855b891e9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a09c0408-491b-4435-aab6-86b855b891e9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a09c0408-491b-4435-aab6-86b855b891e9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{a09c0408-491b-4435-aab6-86b855b891e9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE22D496-6BCA-4D8B-8256-A8DE4998E9F9}
+	EndGlobalSection
+EndGlobal
